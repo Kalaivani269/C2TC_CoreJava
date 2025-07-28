@@ -9,7 +9,7 @@ public class texteditor {
 		word.write("Hello, ");
 		word.formatText(true);
 		word.write("World!");
-		word.displayContent();
+		word.displayContent();b 
 
 		word.spellCheck();
 
